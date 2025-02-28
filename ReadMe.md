@@ -2,6 +2,7 @@
 💻 DevOps Engineer | Containerization | Orchestration | Cloud 🌐<br><br>I'm a passionate DevOps engineer with 4 years of experience in containerization and orchestration. <br>I specialize in leveraging cutting-edge technologies to build scalable and reliable applications. <br>My expertise spans containerization with Docker, orchestration with Kubernetes, and cloud storage with tools like S3.<br><br>I’m also well-versed in monitoring and logging solutions, utilizing Prometheus, Grafana, ELK, Loki, and Zabbix to ensure smooth performance and quick troubleshooting. <br>My focus is on creating modern solutions that drive efficiency and innovation.<br>
 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/miadakbari/) 
 
